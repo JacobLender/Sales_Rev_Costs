@@ -1,4 +1,4 @@
-# Sales_Rev_Costs
+# Sales, Revenue, and Costs Insights
 
 ## Project Description
 Built a Power BI dashboard to help a telecom company identify and reverse a major sales decline. Automated data extraction from Salesforce to Google Sheets and used Python for data exploration. Revealed a 50% drop in East region internet sales due to aggressive competitor pricing. Enabled leadership to make faster, data-driven decisions with real-time insights by region, product, and rep. Replaced manual reports with a centralized, interactive dashboard for smarter forecasting and performance tracking.
