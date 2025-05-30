@@ -9,6 +9,13 @@ Built a Power BI dashboard to help a telecom company identify and reverse a majo
 - Designed and deployed an interactive Power BI dashboard to enable stakeholders to monitor key sales and revenue KPIs in real time.
 - Enabled data-driven decision-making by visualizing performance across time periods, regions, and products.
 
+## Project Includes:
+1. Read Me Doc - The current document you are reading that provides overview of project.
+2. PNG Files - Images of Dashboards
+3. Final_Telecom_Data_with_Costs.xlsx - Data pulled from Salesforce and stored. This step can be skipped for many businesses by pulling data directly from Salesforce to Power BI.
+4. Sales & Revenue Exploration.ipynb - Jupyter Notebook with Python code for data exploration.
+5. Telecom_Sales_Rev_Portfolio.PBIX - Power BI file that contains Sales, Revenue, and Costs dashboard.
+
 ## Tech Stack
 - Python
 - Microsoft Power BI
