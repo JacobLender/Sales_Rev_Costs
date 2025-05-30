@@ -19,5 +19,6 @@ Website: https://www.jakelender.com
 Email: Jakelender@gmail.com
 
 ## Screenshots
-![alt text](https://github.com/JacobLender/Sales_Rev_Costs/BLog_2_BusinessIsGreat.png)
-![alt text](https://github.com/JacobLender/Sales_Rev_Costs/BLog_3_BusinessIsGreat.png)
+![alt text](https://github.com/JacobLender/Sales_Rev_Costs/blob/9d9b7f3d0752227786c25f5aca0978481e8039dc/BLog_2_BusinessIsGreat.png)
+![alt text](https://github.com/JacobLender/Sales_Rev_Costs/blob/9d9b7f3d0752227786c25f5aca0978481e8039dc/BLog_2_BusinessIsGreat.png)
+
